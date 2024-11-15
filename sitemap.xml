@@ -37,13 +37,25 @@
     <loc>https://docs.acada.dev/rosrider_doc/01_INTRO/README.html</loc>
   </url>
   <url>
-    <loc>https://docs.acada.dev/rosrider_doc/02_HARDWARE/README.html</loc>
+    <loc>https://docs.acada.dev/rosrider_doc/02_PINMAP/README.html</loc>
   </url>
   <url>
-    <loc>https://docs.acada.dev/rosrider_doc/03_SOFTWARE/README.html</loc>
+    <loc>https://docs.acada.dev/rosrider_doc/03_CONNECT/README.html</loc>
   </url>
   <url>
-    <loc>https://docs.acada.dev/rosrider_doc/04_FIRMWARE/README.html</loc>
+    <loc>https://docs.acada.dev/rosrider_doc/04_DRIVERS/README.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.acada.dev/rosrider_doc/05_PARAMETERS/README.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.acada.dev/rosrider_doc/06_FIRMWARE/README.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.acada.dev/rosrider_doc/08_PROCEDURES/README.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.acada.dev/rosrider_doc/09_SIMULATIONS/README.html</loc>
   </url>
   <url>
     <loc>https://docs.acada.dev/rosrider_doc/10_DEBUG/README.html</loc>
