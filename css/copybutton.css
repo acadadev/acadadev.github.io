@@ -1,4 +1,4 @@
-clipboard-copy.copybtn {
+button.copybtn {
     position: absolute;
     display: flex;
     top: .3em;
@@ -18,12 +18,12 @@ clipboard-copy.copybtn {
     color: #57606a;
 }
 
-clipboard-copy.copybtn.success {
+button.copybtn.success {
     border-color: #22863a;
     color: #22863a;
 }
 
-clipboard-copy.copybtn svg {
+button.copybtn svg {
     stroke: currentColor;
     width: 1.5em;
     height: 1.5em;
@@ -34,27 +34,18 @@ div.highlight  {
     position: relative;
 }
 
-/* Show the copyclipboard-copy */
-.highlight:hover clipboard-copy.copybtn, clipboard-copy.copybtn.success {
+.highlight:hover button.copybtn, button.copybtn.success {
 	opacity: 1;
 }
 
-.highlight clipboard-copy.copybtn:hover {
+.highlight button.copybtn:hover {
     background-color: rgb(235, 235, 235);
 }
 
-.highlight clipboard-copy.copybtn:active {
+.highlight button.copybtn:active {
     background-color: rgb(187, 187, 187);
 }
 
-/**
- * A minimal CSS-only tooltip copied from:
- *   https://codepen.io/mildrenben/pen/rVBrpK
- *
- * To use, write HTML like the following:
- *
- * <p class="o-tooltip--left" data-tooltip="Hey">Short</p>
- */
  .o-tooltip--left {
   position: relative;
  }
@@ -85,9 +76,8 @@ div.highlight  {
     transition-delay: .5s;
 }
 
-/* By default the copy clipboard-copy shouldn't show up when printing a page */
 @media print {
-    clipboard-copy.copybtn {
+    button.copybtn {
         display: none;
     }
 }
