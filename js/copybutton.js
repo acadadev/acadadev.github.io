@@ -55,8 +55,7 @@ let doc_url_root = DOCUMENTATION_OPTIONS.URL_ROOT;
 if (doc_url_root == '#') {
     doc_url_root = '';
 }
-*//
-
+*/
 
 /**
  * SVG files for our copy buttons
