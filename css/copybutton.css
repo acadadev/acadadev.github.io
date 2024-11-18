@@ -1,5 +1,4 @@
-/* Copy buttons */
-button.copybtn {
+clipboard-copy.copybtn {
     position: absolute;
     display: flex;
     top: .3em;
@@ -19,12 +18,12 @@ button.copybtn {
     color: #57606a;
 }
 
-button.copybtn.success {
+clipboard-copy.copybtn.success {
     border-color: #22863a;
     color: #22863a;
 }
 
-button.copybtn svg {
+clipboard-copy.copybtn svg {
     stroke: currentColor;
     width: 1.5em;
     height: 1.5em;
@@ -35,16 +34,16 @@ div.highlight  {
     position: relative;
 }
 
-/* Show the copybutton */
-.highlight:hover button.copybtn, button.copybtn.success {
+/* Show the copyclipboard-copy */
+.highlight:hover clipboard-copy.copybtn, clipboard-copy.copybtn.success {
 	opacity: 1;
 }
 
-.highlight button.copybtn:hover {
+.highlight clipboard-copy.copybtn:hover {
     background-color: rgb(235, 235, 235);
 }
 
-.highlight button.copybtn:active {
+.highlight clipboard-copy.copybtn:active {
     background-color: rgb(187, 187, 187);
 }
 
@@ -86,9 +85,9 @@ div.highlight  {
     transition-delay: .5s;
 }
 
-/* By default the copy button shouldn't show up when printing a page */
+/* By default the copy clipboard-copy shouldn't show up when printing a page */
 @media print {
-    button.copybtn {
+    clipboard-copy.copybtn {
         display: none;
     }
 }
