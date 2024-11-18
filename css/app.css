@@ -45,7 +45,7 @@ img.replay {
   cursor: pointer;
 }
 
-.terminal {
+.term-out {
   font-family: monospace;
   background-color: #000;
   color: #fff;
@@ -53,6 +53,6 @@ img.replay {
   border-radius: 5px;
 }
 
-.shell {
+.shell-out {
   font-weight: bold;
 }
