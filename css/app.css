@@ -3,7 +3,7 @@ div.language-console div.highlight {
 }
 
 div.language-console div.highlight pre.highlight {
-  background-color: #282a36;
+  background-color: #484a56;
   padding: 12px;
 }
 
@@ -14,7 +14,7 @@ div.language-console span.go {
 }
 
 div.checkpoint {
-  border: 1px solid #AAAAAA;
+  border: 1px solid #cccccc;
   padding-left:15px;
   padding-right:15px;
   padding-top:15px;
