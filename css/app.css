@@ -47,15 +47,3 @@ clipboard-copy:focus-visible {
 img.replay {
   cursor: pointer;
 }
-
-.term-out {
-  font-family: monospace;
-  background-color: #000;
-  color: #fff;
-  padding: 1em;
-  border-radius: 5px;
-}
-
-.shell-out {
-  font-weight: bold;
-}
