@@ -1,9 +1,11 @@
 div.language-console div.highlight {
   background: #000000;
 }
+
 div.language-console span.go {
   color: #999999;
-  font: monospace;
+  font-family: monospace;
+  font-weight: bold;
 }
 
 div.checkpoint {
