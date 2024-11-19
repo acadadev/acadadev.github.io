@@ -1,10 +1,10 @@
 div.language-console div.highlight {
-  border: 0 none;
+
 }
 
 div.language-console div.highlight pre.highlight {
   background-color: #484a56;
-  padding: 12px;
+  padding: 16px;
 }
 
 div.language-console span.go {
