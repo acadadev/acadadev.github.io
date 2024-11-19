@@ -3,7 +3,7 @@ div.language-console div.highlight pre.highlight {
   padding: 16px;
 }
 
-div.language-console span.go {
+div.language-console div.highlight span.go {
   color: #ffffff;
   font-family: monospace;
   font-weight: bold;
