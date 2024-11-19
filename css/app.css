@@ -1,9 +1,9 @@
 div.language-console div.highlight {
-  background-color: #000000;
+  border: 1px solid #000000;
 }
 
 div.language-console div.highlight pre.highlight {
-  background-color: #000000;
+  background-color: #282a36;
 }
 
 div.language-console span.go {
