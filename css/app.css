@@ -116,6 +116,7 @@ h1, h2, h3, h4 {
     padding: 25px 20px;
     background-color: #fafafa;
     flex-shrink: 0;
+    border-bottom: 1px solid #EEE;
 }
 .sidebar-menu {
     padding: 20px;
@@ -131,7 +132,6 @@ h1, h2, h3, h4 {
     padding: 0 !important;
     display: flex;
     align-items: center;
-    border-bottom: 1px solid #EEE;
 }
 .content-breadcrumbs h4 {
     font-size: 0.95rem;
