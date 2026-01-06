@@ -151,16 +151,12 @@ h1, h2, h3, h4 {
 }
 
 .content-breadcrumbs {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 5px;
     padding-left: 0px;
     padding-right: 0px;
-    border-bottom: 1px solid #EEE;
     display: flex;
     align-items: center;
     min-height: 48px;
-    display: flex;           /* Turn the H4 itself into a flexbox */
-    align-items: center;     /* Vertically center the content */
 }
 .content-breadcrumbs h4 {
     font-size: 0.95rem;
