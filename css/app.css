@@ -133,7 +133,7 @@ h1, h2, h3, h4 {
 
 .sidebar-header {
     padding: 25px 20px;
-    border-bottom: 1px solid #AAA;
+    border-bottom: 1px solid #EEE;
     background-color: #fafafa;
     flex-shrink: 0;
 }
@@ -155,7 +155,7 @@ h1, h2, h3, h4 {
     padding-bottom: 25px;
     padding-left: 0px;
     padding-right: 0px;
-    border-bottom: 1px solid #AAA;
+    border-bottom: 1px solid #EEE;
     display: flex;
     align-items: center;
     min-height: 48px;
@@ -212,7 +212,7 @@ h1, h2, h3, h4 {
         height: auto;
         position: relative;
         border-right: none;
-        border-bottom: 1px solid #AAA;
+        border-bottom: 1px solid #EEE;
     }
     .main-content {
         padding: 20px;
