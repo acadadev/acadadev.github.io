@@ -129,7 +129,7 @@ h1, h2, h3, h4 {
     background-color: #fff;
 }
 .content-breadcrumbs {
-    padding-bottom: 20px;
+    padding: 0px !important;
     display: flex;
     align-items: center;
     border-bottom: 1px solid #EEE;
@@ -142,6 +142,7 @@ h1, h2, h3, h4 {
     margin: 0px !important;
     height: 35px !important;
     padding-top: 25px;
+    padding-bottom: 25px;
 }
 .content-breadcrumbs a {
     text-decoration: none;
