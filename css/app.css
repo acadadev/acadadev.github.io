@@ -192,6 +192,37 @@ h1, h2, h3, h4 {
     font-family: 'Roboto Slab', serif;
     background-color: #f6f8fa;
 }
+
+.tab-content table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+    font-family: 'Roboto Mono', monospace;
+    border: none;
+}
+
+.tab-content th {
+    text-align: left;
+    padding: 8px 12px;
+    background-color: #f1f3f5;
+    color: #444;
+    border-bottom: 2px solid #ddd;
+    font-weight: 700;
+}
+
+.tab-content td {
+    padding: 6px 12px;
+    border-bottom: 1px solid #eee;
+    color: #555;
+}
+
+.tab-content td strong {
+    color: #000;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.5px;
+}
+
 @media (max-width: 768px) {
     .layout-wrapper {
         flex-direction: column;
