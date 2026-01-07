@@ -227,6 +227,12 @@ h1, h2, h3, h4 {
     margin: 20px auto;
     cursor: pointer;
 }
+.figcaption {
+    font-style: italic:
+    color: #666;
+    margin-top: 10px;
+    font-size: 1.0em;
+}
 @media (max-width: 768px) {
     .layout-wrapper {
         flex-direction: column;
