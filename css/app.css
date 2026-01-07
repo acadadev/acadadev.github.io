@@ -222,7 +222,7 @@ h1, h2, h3, h4 {
 }
 .tab-content img {
     max-width: 400px !important;
-    width: 50% !important;
+    width: 100% !important;
     height: auto;
     display: block;
     margin: 20px auto;
