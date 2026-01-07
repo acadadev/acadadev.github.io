@@ -201,7 +201,6 @@ h1, h2, h3, h4 {
     font-family: 'Roboto Mono', monospace;
     border: none;
 }
-
 .tab-content th {
     text-align: left;
     padding: 8px 12px;
@@ -210,20 +209,27 @@ h1, h2, h3, h4 {
     border-bottom: 2px solid #ddd;
     font-weight: 700;
 }
-
 .tab-content td {
     padding: 6px 12px;
     border-bottom: 1px solid #eee;
     color: #555;
 }
-
 .tab-content td strong {
     color: #000;
     text-transform: uppercase;
     font-size: 0.8rem;
     letter-spacing: 0.5px;
 }
-
+.tab-content img {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+}
 @media (max-width: 768px) {
     .layout-wrapper {
         flex-direction: column;
