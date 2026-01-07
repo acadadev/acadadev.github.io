@@ -226,8 +226,6 @@ h1, h2, h3, h4 {
     height: auto;
     display: block;
     margin: 20px auto;
-    border: 1px solid #ddd;
-    border-radius: 4px;
     cursor: pointer;
 }
 @media (max-width: 768px) {
