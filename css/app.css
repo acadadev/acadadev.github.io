@@ -221,7 +221,7 @@ h1, h2, h3, h4 {
     letter-spacing: 0.5px;
 }
 .tab-content img {
-    max-width: 500px !important;
+    max-width: 400px !important;
     width: 100% !important;
     height: auto;
     display: block;
