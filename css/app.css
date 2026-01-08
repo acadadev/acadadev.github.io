@@ -8,13 +8,13 @@ div.language-console div.highlight pre.highlight code span.go {
   font-weight: bold;
 }
 div.checkpoint {
-  border: 1px solid #a8a8a8;
+  border: 1px solid #EEE;
   padding-left:15px;
   padding-right:15px;
   padding-top:15px;
   padding-bottom:5px;
   margin-bottom:25px;
-  border-radius: 10px;
+  border-radius: 4px;
 }
 clipboard-copy {
   -webkit-appearance: button;
