@@ -273,6 +273,7 @@ h1, h2, h3, h4 {
 }
 .ck1 {
     font-size: 1.4em;
+    color: #666;
     font-weight: bold;
     margin-bottom: 5px
 }
@@ -280,6 +281,7 @@ h1, h2, h3, h4 {
     font-size: 1.1em;
     font-style: italic;
     line-height: 1.5;
+    color: #666;
 }
 .img_dv {
     display: flex;
