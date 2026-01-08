@@ -280,7 +280,8 @@ h1, h2, h3, h4 {
 .ck2 {
     font-size: 1.0em;
     line-height: 1.5;
-    color: #666;
+    color: #333;
+    margin-top: 5px;
 }
 .img_dv {
     display: flex;
