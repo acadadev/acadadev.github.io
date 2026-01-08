@@ -16,6 +16,9 @@ div.checkpoint {
   margin-bottom:25px;
   border-radius: 4px;
 }
+div.checkpoint p {
+  color: 00EE00;
+}
 clipboard-copy {
   -webkit-appearance: button;
   -moz-appearance: button;
