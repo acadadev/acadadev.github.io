@@ -261,6 +261,7 @@ h1, h2, h3, h4 {
 .img_fg25 {
     width: 25%;
     margin: 0;
+    text-align: center;
 }
 .img_fg45 {
     width: 45%;
