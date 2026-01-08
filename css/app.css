@@ -254,6 +254,17 @@ h1, h2, h3, h4 {
     font-style: italic;
     line-height: 1.5;
 }
+
+.img_dv {
+    display: flex;
+    margin: 25px 0;
+}
+
+.img_fg {
+    width: 60%;
+    margin: 0;
+}
+
 @media (max-width: 768px) {
     .layout-wrapper {
         flex-direction: column;
