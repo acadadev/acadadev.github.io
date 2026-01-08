@@ -16,7 +16,7 @@ div.checkpoint {
   margin-bottom:25px;
   border-radius: 4px;
 }
-div.checkpoint p {
+div.checkpoint p.ch {
   color: 00EE00;
   font-weight: bold;
   font-size: 1.5em;
