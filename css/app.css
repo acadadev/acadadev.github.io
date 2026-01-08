@@ -8,7 +8,7 @@ div.language-console div.highlight pre.highlight code span.go {
   font-weight: bold;
 }
 div.checkpoint {
-  border: 1px solid #EEE;
+  border: 1px solid #F44336;
   padding-left:15px;
   padding-right:15px;
   padding-top:15px;
@@ -92,13 +92,13 @@ img.replay {
   border: none;
 }
 body, .markdown-body {
-  font-family: 'Instrument Sans', serif !important;
+  font-family: 'Roboto Slab', serif !important;
   line-height: 1.6;
   color: #333;
   margin: 0;
 }
 h1, h2, h3, h4 {
-  font-family: 'Instrument Sans', serif !important;
+  font-family: 'Roboto Slab', serif !important;
   font-weight: 700;
 }
 .layout-wrapper {
@@ -191,18 +191,18 @@ h1, h2, h3, h4 {
     border-collapse: collapse;
 }
 .markdown-body td {
-    font-family: 'Inter', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+    font-family: 'Roboto Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
     font-size: 0.9em;
 }
 .markdown-body th {
-    font-family: 'Instrument Sans', serif;
+    font-family: 'Roboto Slab', serif;
     background-color: #f6f8fa;
 }
 .tab-content table {
     width: 100%;
     border-collapse: collapse;
     font-size: 0.85rem;
-    font-family: 'Inter', monospace;
+    font-family: 'Roboto Mono', monospace;
     border: none;
 }
 .tab-content th {
