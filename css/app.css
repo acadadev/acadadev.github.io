@@ -258,6 +258,10 @@ h1, h2, h3, h4 {
     display: flex;
     margin: 25px 0;
 }
+.img_fg25 {
+    width: 25%;
+    margin: 0;
+}
 .img_fg45 {
     width: 45%;
     margin: 0;
@@ -277,6 +281,11 @@ h1, h2, h3, h4 {
 .img_fg100 {
     width: 100%;
     margin: 0;
+}
+.img_sh {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 @media (max-width: 768px) {
     .layout-wrapper {
