@@ -8,7 +8,7 @@ div.language-console div.highlight pre.highlight code span.go {
   font-weight: bold;
 }
 div.checkpoint {
-  border: 1px solid #EEE;
+  border: 1px solid #F44336;
   padding-left:15px;
   padding-right:15px;
   padding-top:15px;
@@ -19,7 +19,7 @@ div.checkpoint {
 div.checkpoint p.ch {
   color: #F44336 !important;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
 clipboard-copy {
   -webkit-appearance: button;
