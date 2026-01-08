@@ -18,6 +18,7 @@ div.checkpoint {
 }
 div.checkpoint p {
   color: 00EE00;
+  font-weight: bold;
 }
 clipboard-copy {
   -webkit-appearance: button;
