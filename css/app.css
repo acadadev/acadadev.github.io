@@ -17,9 +17,9 @@ div.checkpoint {
   border-radius: 4px;
 }
 div.checkpoint p.ch {
-  color: 00EE00;
+  color: 00EE00 !important;
   font-weight: bold;
-  font-size: 1.5em;
+  font-size: 1.2em;
 }
 clipboard-copy {
   -webkit-appearance: button;
