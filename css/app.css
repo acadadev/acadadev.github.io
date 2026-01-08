@@ -258,6 +258,11 @@ h1, h2, h3, h4 {
     display: flex;
     margin: 25px 0;
 }
+.img_dvc {
+    display: flex;
+    margin: 25px 0;
+    justify-content: space-around;
+}
 .img_fg25 {
     width: 25%;
     margin: 0;
