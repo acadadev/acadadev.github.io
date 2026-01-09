@@ -1,6 +1,6 @@
 <div class="sl">
     <div class="sl1">
-        > Connecting ROSRider to Raspberry PI
+        > ACADA Robotics Documentation
     </div>
 </div>
 
