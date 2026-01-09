@@ -317,8 +317,20 @@ img_dv_center figcaption {
     width: 65%;
     margin: 0;
 }
+.img_fg70 {
+    width: 70%;
+    margin: 0;
+}
 .img_fg75 {
     width: 75%;
+    margin: 0;
+}
+.img_fg80 {
+    width: 80%;
+    margin: 0;
+}
+.img_fg85 {
+    width: 85%;
     margin: 0;
 }
 .img_fg90 {
