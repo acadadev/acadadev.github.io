@@ -281,6 +281,11 @@ h1, h2, h3, h4 {
     margin: 0;
     text-align: center;
 }
+.img_fg33 {
+    width: 33%;
+    margin: 0;
+    text-align: center;
+}
 .img_fg45 {
     width: 45%;
     margin: 0;
