@@ -218,13 +218,7 @@ h1, h2, h3, h4 {
     margin: 20px 0px;
     cursor: pointer;
 }
-.markdown-body figcaption {
-    font-style: italic;
-    color: #666;
-    padding-top: 10px;
-    padding-left: 15px;
-    font-size: 0.95em;
-}
+
 .sl {
     background-color: #f8f9fa;
     border-left: 6px solid #4CAF50;
@@ -277,6 +271,20 @@ h1, h2, h3, h4 {
     margin: 25px 0;
     justify-content: space-around;
 }
+
+.img_dv figcaption {
+    color: #666;
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 0.95em;
+}
+
+img_dv_center figcaption {
+    color: #666;
+    padding-top: 10px;
+    font-size: 0.95em;
+}
+
 .img_fgc25 {
     width: 25%;
     margin: 0;
