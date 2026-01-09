@@ -349,11 +349,12 @@ img_dv_center figcaption {
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 .active-parent {
-    color: #000 !important;   /* Darker, stronger text */
+    color: #000 !important;
     font-weight: 800 !important;
 }
+
 .active-child {
-    color: #007bff !important; /* Blue highlight */
+    color: #007bff !important;
     font-weight: bold;
     text-decoration: underline;
 }
