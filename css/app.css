@@ -352,7 +352,6 @@ img_dv_center figcaption {
     color: #000 !important;   /* Darker, stronger text */
     font-weight: 800 !important;
 }
-
 .active-child {
     color: #007bff !important; /* Blue highlight */
     font-weight: bold;
