@@ -348,19 +348,6 @@ img_dv_center figcaption {
     border-radius: 5px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
-.active-parent {
-    color: #000 !important;
-    font-weight: 800 !important;
-}
-
-.active-child {
-    color: #007bff !important;
-    font-weight: bold;
-    text-decoration: underline;
-}
-.nav-link:hover, .nav-child-link:hover {
-    color: #0056b3 !important;
-}
 @media (max-width: 768px) {
     .layout-wrapper {
         flex-direction: column;
