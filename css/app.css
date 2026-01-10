@@ -287,15 +287,12 @@ img_dv_center figcaption {
     font-size: 1.0em;
     font-family: italic;
 }
-
-.img_fgc25 {
+.img_fg25 {
     width: 25%;
     margin: 0;
-    text-align: center;
-    margin-right: 25px;
 }
-.img_fgc33 {
-    width: 33%;
+.img_fgc25 {
+    width: 25%;
     margin: 0;
     text-align: center;
 }
