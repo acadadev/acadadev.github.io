@@ -266,12 +266,6 @@ h1, h2, h3, h4 {
     display: flex;
     margin: 25px 0;
 }
-.img_dv_center {
-    display: flex;
-    margin: 25px 0;
-    justify-content: space-around;
-}
-
 .img_dv figcaption {
     color: #666;
     padding-top: 10px;
@@ -282,11 +276,12 @@ h1, h2, h3, h4 {
 .img_fg25 {
     width: 25%;
     margin: 0;
-    margin-right: 50px;
+    margin: 0 50px 0 0;
 }
 .img_fg45 {
     width: 45%;
     margin: 0;
+    margin: 0 50px 0 0;
 }
 .img_fg50 {
     width: 50%;
