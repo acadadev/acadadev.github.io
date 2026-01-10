@@ -279,31 +279,14 @@ h1, h2, h3, h4 {
     padding-bottom:10px;
     font-size: 1.0em;
 }
-img_dv_center figcaption {
-    color: #666;
-    padding-top: 10px;
-    padding-bottom:10px;
-    font-size: 1.0em;
-    font-family: italic;
-}
 .img_fg25 {
     width: 25%;
     margin: 0;
-    margin-right:25px;
-}
-.img_fgc25 {
-    width: 25%;
-    margin: 0;
-    text-align: center;
+    margin-right: 50px;
 }
 .img_fg45 {
     width: 45%;
     margin: 0;
-}
-.img_fgc45 {
-    width: 45%;
-    margin: 0;
-    text-align: center;
 }
 .img_fg50 {
     width: 50%;
