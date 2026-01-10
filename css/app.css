@@ -292,6 +292,7 @@ img_dv_center figcaption {
     width: 25%;
     margin: 0;
     text-align: center;
+    margin-right: 25px;
 }
 .img_fgc33 {
     width: 33%;
