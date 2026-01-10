@@ -47,6 +47,7 @@ img.replay {
   border-radius: 6px 6px 0 0;
 }
 .tab-btn {
+  font-family: 'Ubuntu', sans-serif;
   background-color: transparent;
   border: none;
   outline: none;
