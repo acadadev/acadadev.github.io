@@ -88,8 +88,8 @@ h1, h2, h3, h4 {
   font-family: 'Roboto Slab', serif !important;
   font-weight: 700;
 }
-body {
-    overflow-y: scroll;
+html, body {
+    overflow-y: scroll !important;
     /*margin-left: calc(100vw - 100%);*/
 }
 .layout-wrapper {
