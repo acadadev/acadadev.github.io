@@ -88,11 +88,14 @@ h1, h2, h3, h4 {
   font-family: 'Roboto Slab', serif !important;
   font-weight: 700;
 }
+html {
+    overflow-y: scroll;
+    margin-left: calc(100vw - 100%);
+}
 .layout-wrapper {
     display: flex;
     flex-direction: row;
     min-height: 100vh;
-    overflow-y: scroll;
 }
 .sidebar {
     width: 260px;
