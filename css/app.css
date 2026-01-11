@@ -218,7 +218,7 @@ h1, h2, h3, h4 {
     */
     height: auto;
     display: block;
-    margin: 20px 0px;
+    /* margin: 20px 0px; */
     cursor: pointer;
 }
 .sl {
